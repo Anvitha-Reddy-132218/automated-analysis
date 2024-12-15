@@ -7,22 +7,22 @@ The **Automated Data Analysis Tool** is an advanced solution designed to simplif
 
 ## **Features**  
 
-### 🛠 **Automated Data Processing**  
+###  **Automated Data Processing**  
 - Upload datasets in formats like CSV, Excel, and JSON.  
 - Automatically cleans and preprocesses the data, addressing missing values and duplicates.  
 
-### 📊 **Summary Statistics**  
+###  **Summary Statistics**  
 - Provides detailed statistical summaries for numerical and categorical data.  
 - Highlights metrics such as mean, median, mode, standard deviation, and data distribution.  
 
-### 📈 **Data Visualizations**  
+###  **Data Visualizations**  
 - Automatically generates visualizations like:  
   - Correlation heatmaps  
   - Distribution plots  
   - Box plots  
 - Saves all visualizations as PNG files for easy sharing and reporting.  
 
-### 🧠 **Narrative Insights**  
+###  **Narrative Insights**  
 - Leverages OpenAI's API to generate human-readable summaries of key findings.  
 - Makes data trends, correlations, and insights easier to understand.  
 
@@ -68,10 +68,3 @@ After analysis, the tool provides:
 - Download statistical summaries as CSV or text files.  
 - Export visualizations and narrative reports for sharing or presentations.  
 
----
-
-## **Installation**  
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-repo/automated-data-analysis-tool.git
